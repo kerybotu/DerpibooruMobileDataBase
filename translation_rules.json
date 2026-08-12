@@ -1,0 +1,374 @@
+[
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/settings/edit\"><i class=\"fa fa-fw fa-cogs hide-desktop\"></i> Settings</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/settings/edit\"><i class=\"fa fa-fw fa-cogs hide-desktop\"></i> 设置</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link hide-mobile\" href=\"/filters\">Filters ({{1}})</a>",
+    "fragmentB": "<a class=\"header__link hide-mobile\" href=\"/filters\">过滤器 ({{1}})</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/registrations/new\">Register</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/registrations/new\">注册</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/sessions/new\">Login</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/sessions/new\">登录</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/sessions/new\">Login</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/sessions/new\">登录</a>"
+  },
+  {
+    "fragmentA": "<font _mstmutation=\"1\">Images</font>",
+    "fragmentB": "<font _mstmutation=\"1\">图库</font>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/images/random\">Random</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/images/random\">随机图片</a>"
+  },
+  {
+    "fragmentA": "<font _mstmutation=\"1\">Activity</font>",
+    "fragmentB": "<font _mstmutation=\"1\">动态</font>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/comments\">Comments</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/comments\">评论/a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums\">Forums<span data-click-preventdefault=\"true\"> <i class=\"fa fa-caret-down\"></i></span></a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums\">论坛<span data-click-preventdefault=\"true\"> <i class=\"fa fa-caret-down\"></i></span></a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/art\">Art Chat</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/art\">艺术讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/writing\">Fanfiction</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/writing\">同人文</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/dis\">General Discussion</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/dis\">综合讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/generals\">Generals</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/generals\">泛主题讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/pony\">Pony Discussion</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/pony\">小马讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/rp\">Roleplaying</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/rp\">角色扮演</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/meta\">Site and Policy</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/meta\">网站与政策</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/tagging\">Tagging Discussion</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/tagging\">标签讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/forums/uppers\">Uploader Discussion</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/forums/uppers\">投稿者讨论</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/tags\">Tags</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/tags\">标签</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/channels\">Live <span class=\"header__counter\">{{1}}</span></a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/channels\">直播 <span class=\"header__counter\">{{1}}</span></a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/galleries\">Galleries</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/galleries\">图集</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/commissions\">Commissions</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/commissions\">约稿</a>"
+  },
+  {
+    "fragmentA": "<a class=\"header__link\" href=\"/posts\"><i class=\"fa fa-fw fa-search\"></i> Post Search</a>",
+    "fragmentB": "<a class=\"header__link\" href=\"/posts\"><i class=\"fa fa-fw fa-search\"></i> 帖子搜索</a>"
+  },
+  {
+    "fragmentA": "<h4 class=\"remove-top-margin\">Featured Image</h4>",
+    "fragmentB": "<h4 class=\"remove-top-margin\">精选图片</h4>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/search?q=first_seen_at.gt:3 days ago, -ai generated, -ai composition&amp;sf=wilson_score&amp;sd=desc\">Trending Images </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/search?q=first_seen_at.gt:3 days ago, -ai generated, -ai composition&amp;sf=wilson_score&amp;sd=desc\">热门图片 </a>"
+  },
+  {
+    "fragmentA": "<div class=\"block block--fixed block--fixed--sub block--success center hide-mobile\">Enjoy the site? <a href=\"/pages/donations\">Donate to help keep it going! </a></div>",
+    "fragmentB": "<div class=\"block block--fixed block--fixed--sub block--success center hide-mobile\">喜欢这个网站吗？ <a href=\"/pages/donations\">欢迎捐赠，帮助网站持续运营！ </a></div>"
+  },
+  {
+    "fragmentA": "<div class=\"block block--fixed block--fixed--sub center hide-mobile\">Issues? Want to chat? <a href=\"/pages/contact\">Contact us!</a></div>",
+    "fragmentB": "<div class=\"block block--fixed block--fixed--sub center hide-mobile\">遇到问题？ 需要帮助？ <a href=\"/pages/contact\">联系我们！</a></div>"
+  },
+  {
+    "fragmentA": "<input autocapitalize=\"none\" autocomplete=\"on\" class=\"input header__input header__input--search\" data-autocomplete=\"multi-tags\" data-autocomplete-condition=\"enable_search_ac\" data-autocomplete-history-id=\"search-history\" id=\"q\" inputmode=\"search\" name=\"q\" placeholder=\"Search\" spellcheck=\"false\" title=\"For terms all required, separate with ',' or 'AND'; also supports 'OR' for optional terms and '-' or 'NOT' for negation. Search with a blank query for more options or click the ? for syntax help\">",
+    "fragmentB": "<input autocapitalize=\"none\" autocomplete=\"on\" class=\"input header__input header__input--search\" data-autocomplete=\"multi-tags\" data-autocomplete-condition=\"enable_search_ac\" data-autocomplete-history-id=\"search-history\" id=\"q\" inputmode=\"search\" name=\"q\" placeholder=\"搜索\" spellcheck=\"false\" title=\"多个关键词均需匹配时，请使用“,”或“AND”分隔。 也支持使用“OR”表示任一关键词匹配，以及使用“-”或“NOT”排除关键词。 留空搜索可查看更多选项，或点击“？”查看语法帮助。\">"
+  },
+  {
+    "fragmentA": "<a class=\"js-next\" href=\"/images?page=2\">Next ›</a>",
+    "fragmentB": "<a class=\"js-next\" href=\"/images?page=2\">下一页 ›</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/images?page=180801\">Last »</a>",
+    "fragmentB": "<a href=\"/images?page=180801\">最后一页 »</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/images?page=1\">« First</a>",
+    "fragmentB": "<a href=\"/images?page=1\">« 第一页</a>"
+  },
+  {
+    "fragmentA": "<a class=\"js-prev\" href=\"/images?page=1\">‹ Prev</a>",
+    "fragmentB": "<a class=\"js-prev\" href=\"/images?page=1\">‹ 上一页</a>"
+  },
+  {
+    "fragmentA": "<span class=\"block__header__title page__info\">Showing results <strong>{{1}} </strong>of <strong>{{2}} </strong>total </span>",
+    "fragmentB": "<span class=\"block__header__title page__info\">正在显示第 <strong>{{1}} </strong>条结果，总计 <strong>{{2}} </strong>条 </span>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/search?q=*&amp;sf=score&amp;sd=desc\">All Time Top Scoring </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/search?q=*&amp;sf=score&amp;sd=desc\">历史最高评分图片 </a>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/channels\">Streams </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/channels\">直播列表 </a>"
+  },
+  {
+    "fragmentA": "<span class=\"channel-strip__state label label--narrow label--danger\">OFF AIR </span>",
+    "fragmentB": "<span class=\"channel-strip__state label label--narrow label--danger\">未直播 </span>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/forums\">Forum Activity </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/forums\">论坛动态 </a>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/comments\">Recent Comments </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/comments\">最新评论 </a>"
+  },
+  {
+    "fragmentA": "<a class=\"block__header--single-item center\" href=\"/search?q=first_seen_at.gt:3 days ago&amp;sf=comment_count&amp;sd=desc\">Most Commented-on Images </a>",
+    "fragmentB": "<a class=\"block__header--single-item center\" href=\"/search?q=first_seen_at.gt:3 days ago&amp;sf=comment_count&amp;sd=desc\">评论最多的图片 </a>"
+  },
+  {
+    "fragmentA": "<h5 class=\"hide-mobile\">Site Resources</h5>",
+    "fragmentB": "<h5 class=\"hide-mobile\">网站资源</h5>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/rules\" target=\"_self\">Site Rules</a>",
+    "fragmentB": "<a href=\"/pages/rules\" target=\"_self\">网站规则</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/privacy\" target=\"_self\">Privacy Policy</a>",
+    "fragmentB": "<a href=\"/pages/privacy\" target=\"_self\">隐私政策</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/tags\" target=\"_self\">Tag Guidelines</a>",
+    "fragmentB": "<a href=\"/pages/tags\" target=\"_self\">标签指南</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/uploading\" target=\"_self\">About Uploading</a>",
+    "fragmentB": "<a href=\"/pages/uploading\" target=\"_self\">上传说明</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/spoilers\" target=\"_self\">Spoiler Guidelines</a>",
+    "fragmentB": "<a href=\"/pages/spoilers\" target=\"_self\">剧透指南</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/takedowns\" target=\"_self\">Takedown Requests</a>",
+    "fragmentB": "<a href=\"/pages/takedowns\" target=\"_self\">删除请求</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/dnp\" target=\"_self\">Do-Not-Post List</a>",
+    "fragmentB": "<a href=\"/dnp\" target=\"_self\">禁止发布列表</a>"
+  },
+  {
+    "fragmentA": "<h5 class=\"hide-mobile\">Help &amp; Information</h5>",
+    "fragmentB": "<h5 class=\"hide-mobile\">帮助与信息</h5>"
+  },
+  {
+    "fragmentA": "<a href=\"https://github.com/derpibooru/philomena/commits/master\" target=\"_blank\">Changelog</a>",
+    "fragmentB": "<a href=\"https://github.com/derpibooru/philomena/commits/master\" target=\"_blank\">更新日志</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/faq\" target=\"_self\">FAQs</a>",
+    "fragmentB": "<a href=\"/pages/faq\" target=\"_self\">常见问题</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/api\" target=\"_self\">API Docs</a>",
+    "fragmentB": "<a href=\"/pages/api\" target=\"_self\">API文档</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/shortcuts\" target=\"_self\">Keyboard Shortcuts</a>",
+    "fragmentB": "<a href=\"/pages/shortcuts\" target=\"_self\">键盘快捷键</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/advertising\" target=\"_self\">Advertising</a>",
+    "fragmentB": "<a href=\"/pages/advertising\" target=\"_self\">广告</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/onion\" target=\"_self\">Onion Service</a>",
+    "fragmentB": "<a href=\"/pages/onion\" target=\"_self\">Onion 服务</a>"
+  },
+  {
+    "fragmentA": "<h5 class=\"hide-mobile\">Community</h5>",
+    "fragmentB": "<h5 class=\"hide-mobile\">社区</h5>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/contact\" target=\"_self\">Contact</a>",
+    "fragmentB": "<a href=\"/pages/contact\" target=\"_self\">联系我们</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/donations\" target=\"_self\">Donations</a>",
+    "fragmentB": "<a href=\"/pages/donations\" target=\"_self\">捐赠</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/staff\" target=\"_self\">Site Staff List</a>",
+    "fragmentB": "<a href=\"/staff\" target=\"_self\">网站工作人员列表</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/stats\" target=\"_self\">Statistics</a>",
+    "fragmentB": "<a href=\"/pages/stats\" target=\"_self\">统计数据</a>"
+  },
+  {
+    "fragmentA": "<a href=\"/pages/about\" target=\"_self\">About</a>",
+    "fragmentB": "<a href=\"/pages/about\" target=\"_self\">关于本站</a>"
+  },
+  {
+    "fragmentA": "<div class=\"block block--fixed block--warning\"><h2>Content Safety</h2><p>By default, content that is safe and suitable for all ages is all you'll see on the site, and how most of our users browse. The default filters focus on art, so filter out things like memes and what some users would consider \"spam\". </p><p>Filters let you customize what content you see on the site. This means that with the appropriate filter selected, you can access content which is not suitable for everyone, such as sexually explicit, grimdark or gory material. </p><p><strong>By changing away from the default filters, you accept you are legally permitted to view this content in your jurisdiction. If in doubt, stick with the recommended default filters. </strong></p></div>",
+    "fragmentB": "<div class=\"block block--fixed block--warning\"><h2>内容安全</h2><p>默认情况下，您在网站上看到的内容都是适合所有年龄段的安全内容，这也是大多数用户浏览网站时采用的方式。 默认过滤器主要关注艺术作品，因此会过滤掉例如模因，以及一些用户认为属于“垃圾内容”的内容。 </p><p>过滤器允许您自定义在网站上看到的内容。这意味着，通过选择合适的过滤器，您可以访问并非所有人都适合查看的内容，例如露骨色情内容、黑暗向（grimdark）内容或血腥内容。 </p><p><strong>更改默认过滤器即表示您确认，根据您所在司法管辖区的法律，您有权查看这些内容。如有疑问，请继续使用推荐的默认过滤器。 </strong></p></div>"
+  },
+  {
+    "fragmentA": "<h1>Browsing Filters</h1>",
+    "fragmentB": "<h1>浏览过滤器</h1>"
+  },
+  {
+    "fragmentA": "<p>Images posted on the site are tagged, allowing you to easily search for content. You can also filter out content you'd rather not see using filters. Filters are sets of tags - spoilered tags and hidden tags. Spoilers are images that show up as thumbnails instead of the image, letting you click through and find out more about an image before deciding to view it or not. Hidden tags will simply hide images. </p>",
+    "fragmentB": "<p>网站上的图片均带有标签，方便您搜索内容。您也可以使用过滤器屏蔽您不希望看到的内容。过滤器由标签组合组成，包括“剧透”标签和“隐藏”标签。剧透标签会让图片以剧透缩略图的形式显示，而不是直接显示图片，用户可以点击进入查看，并在决定是否浏览前了解更多信息。隐藏标签会直接隐藏图片。</p>"
+  },
+  {
+    "fragmentA": "<p><font _mstmutation=\"1\">There are set of global filters to pick from which cover some common use-cases. If you're logged in you can also customize these filters and make your own, as well as quickly switch (via the menu on every page) between them.</font> </p>",
+    "fragmentB": "<p><font _mstmutation=\"1\">有一套全局过滤器可供选择，涵盖一些常见的使用场景。如果你已经登录，还可以自定义这些过滤器，可以自己创建，并且可以通过菜单快速切换。</font> </p>"
+  },
+  {
+    "fragmentA": "<h2>So how do these work?</h2>",
+    "fragmentB": "<h2>这些过滤器如何工作？</h2>"
+  },
+  {
+    "fragmentA": "<p>You can select any filter you can see. This will become your <strong>active filter </strong>and will affect how you see the site. You can edit filters if you own them - you can create a filter from scratch with the link under \"My Filters\" (if you're logged in, of course) or by clicking \"Customize\", which will copy an existing filter for you to edit. </p>",
+    "fragmentB": "<p>您可以选择任何可见的过滤器。该过滤器将成为您的当前活动过滤器，并影响您浏览网站的方式。如果您拥有某个过滤器，则可以编辑它。——你可以从头创建过滤器，通过“我的过滤器”下的链接（当然，需要登陆），或者点击“自定义”，这样可以复制一个现有过滤器供你编辑。 </p>"
+  },
+  {
+    "fragmentA": "<p>By default all the filters you create are private and only visible by you. You can have as many as you like and switch between them instantly with no limits. You can also create a public filter, which can be seen and used by any user on the site, allowing you to share useful filters with others. </p>",
+    "fragmentB": "<p>默认情况下，你创建的所有过滤器都是私密的，只有你自己能看到。你可以拥有任意数量的过滤器，并且可以随时切换。你还可以创建一个公开过滤器，任何用户都能看到并使用，方便你与他人分享有用的过滤功能。 </p>"
+  },
+  {
+    "fragmentA": "<h2>My Filters</h2>",
+    "fragmentB": "<h2>我的过滤器</h2>"
+  },
+  {
+    "fragmentA": "<p>If you're logged in, you can create and maintain custom filters here. </p>",
+    "fragmentB": "<p>登录后，您可以在此创建和管理自定义过滤器。 </p>"
+  },
+  {
+    "fragmentA": "<div class=\"filter\"><h3>Everything</h3><p>Maintained by staff </p><div class=\"filter-options\"><ul><li>Spoilers 0, hides 0</li><li><a class=\"button\" href=\"/filters/56027\">View this filter</a></li><li><a class=\"button\" href=\"/filters/new?based_on=56027\">Copy and Customize</a></li><li><form action=\"/filters/current?id=56027\" class=\"button_to\" method=\"post\"><input name=\"_method\" type=\"hidden\" hidden=\"\" value=\"put\"><input name=\"_csrf_token\" type=\"hidden\" hidden=\"\" value=\"PAo5YiVwDQoYGCY4IDE9Ah8mND4GAzI2ELt8K4iaJuJsSZROW_b_UrcN\"><button class=\"button\" type=\"submit\">Use this filter</button></form></li></ul><p><em>This filter won't filter anything out at all - that means NSFW content!</em></p></div></div>",
+    "fragmentB": "<div class=\"filter\"><h3>全部内容</h3><p>由工作人员维护 </p><div class=\"filter-options\"><ul><li>剧透标签 0，隐藏标签 0</li><li><a class=\"button\" href=\"/filters/56027\">查看此过滤器</a></li><li><a class=\"button\" href=\"/filters/new?based_on=56027\">复制并自定义</a></li><li><form action=\"/filters/current?id=56027\" class=\"button_to\" method=\"post\"><input name=\"_method\" type=\"hidden\" hidden=\"\" value=\"put\"><input name=\"_csrf_token\" type=\"hidden\" hidden=\"\" value=\"PAo5YiVwDQoYGCY4IDE9Ah8mND4GAzI2ELt8K4iaJuJsSZROW_b_UrcN\"><button class=\"button\" type=\"submit\">使用此过滤器</button></form></li></ul><p><em>此过滤器不会过滤任何内容，包括 NSFW 内容！</em></p></div></div>"
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  },
+  {
+    "fragmentA": "",
+    "fragmentB": ""
+  }
+]
